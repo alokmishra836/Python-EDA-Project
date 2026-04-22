@@ -138,7 +138,7 @@ Through this project, I learned:
 
 ## Sales by Category
 
-![Sales by Category](IMAGE/sales_category.png)
+<img width="578" height="545" alt="sales_category" src="https://github.com/user-attachments/assets/366095a4-509e-4b84-959b-ea93883d6245" />
 
  This shows that Technology performs best in terms of revenue and profit compared to other categories.
 
@@ -146,7 +146,7 @@ Through this project, I learned:
 
 ## Sales by Region
 
-![Sales by Region](IMAGE/sales_region.png)
+<img width="578" height="491" alt="sales_region" src="https://github.com/user-attachments/assets/08af7d4d-3adf-4b4b-a1ac-04a7d2118ade" />
 
  This highlights that the West region is the strongest performer, while other regions lag behind in either sales or profit.
 
@@ -154,15 +154,15 @@ Through this project, I learned:
 
 ## Sales by Sub-Category
 
-![Sales by Sub-Category](IMAGE/sales_subcategory.png)
+<img width="905" height="528" alt="sales_subcategory" src="https://github.com/user-attachments/assets/03d5a0db-eb90-415a-ad29-41fac6955e16" />
 
- This helps identify which specific product groups contribute most and least to overall sales.
+This helps identify which specific product groups contribute most and least to overall sales.
 
 ---
 
 ## Sales Trend Over Time
 
-![Sales Trend](IMAGE/sales_trend.png)
+<img width="1003" height="486" alt="sales_trend" src="https://github.com/user-attachments/assets/161ef5f0-77d4-4f78-be10-1f3c73ca696a" />
 
 This shows how sales fluctuate over time and helps identify seasonal patterns and growth trends.
 
@@ -170,7 +170,7 @@ This shows how sales fluctuate over time and helps identify seasonal patterns an
 
 ## Shipping Mode Distribution
 
-![Shipping Mode](IMAGE/ship_mode_distribution.png)
+<img width="455" height="411" alt="ship_mode_ distribution" src="https://github.com/user-attachments/assets/8d0bb2da-c773-4f5a-b08d-31a93ea98f7f" />
 
  This shows the preference of customers across different shipping modes and helps understand delivery behavior.
 
@@ -178,7 +178,7 @@ This shows how sales fluctuate over time and helps identify seasonal patterns an
 
 ## State-wise Sales Analysis
 
-![State Wise Sales](IMAGE/state_wise.png)
+<img width="578" height="534" alt="state_wise" src="https://github.com/user-attachments/assets/e2ac0a91-cfc4-4bcd-89d8-83306ee5e049" />
 
  This highlights which states generate the most sales and helps identify high-performing locations.
 ---
