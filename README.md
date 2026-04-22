@@ -129,7 +129,8 @@ Through this project, I learned:
 
 ## Discount vs Profit Analysis
 
-"C:\Users\intern1.mumbai\Desktop\Sales project analysis\IMAGES\dicounts_profit.png"
+<img width="592" height="455" alt="dicounts_profit" src="https://github.com/user-attachments/assets/d88790ea-1eed-4567-a389-f255f4eaae4e" />
+
 
  This graph shows how increasing discounts often leads to lower profits, indicating that heavy discounting is reducing overall profitability.
 
